@@ -1,13 +1,13 @@
-famous_person = "britney_spears"
+famous_person = "Britney Spears"
 
 is_active = true
 
-famous_person = "madonna"
+famous_person = "Madonna"
 
 num_3 = 6
 num_9 = 12
 
-sum = "#{num_3 + num_9}"
+puts sum = num_3 + num_9 
 
 animals = ['lions', 'tigers', 'bears']
 

@@ -1,4 +1,4 @@
-airport_hash = {
+airport = {
   name: "sfo",
   location: "california",
   number_of_employees: 2000,
